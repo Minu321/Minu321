@@ -2,7 +2,7 @@
 
 ## I am Mina
 
-- 🎓 &nbsp; I am studying Front-end Development at Noroff School of technology and digital media.
+- 🎓&nbsp;I am studying Front-end Development at Noroff School of technology and digital media.
 - 🤔 My interest lies in front end web development.
 
 ## A little more about me: 
