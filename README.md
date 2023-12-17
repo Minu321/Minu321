@@ -18,7 +18,7 @@ Beyond coding, I enjoy the intersection of technology and creativity, exploring 
 
 ## Contact me:
 
-[LinkedIN] (https://www.linkedin.com/in/mina-roseth-beni-652b90292/)
+[LinkedIn](https://www.linkedin.com/in/mina-roseth-beni-652b90292/)
 <!--
 **Minu321/Minu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
