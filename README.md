@@ -15,6 +15,10 @@ I thrive on crafting engaging and user-friendly interfaces, always seeking innov
 Beyond coding, I enjoy the intersection of technology and creativity, exploring the limitless possibilities that front-end development offers. Join me on this exciting journey as I navigate the realms of digital media and technology.
 
 ✨Let's build something incredible together!✨
+
+## Contact me:
+
+[LinkedIN] (https://www.linkedin.com/in/mina-roseth-beni-652b90292/)
 <!--
 **Minu321/Minu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
