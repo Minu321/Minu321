@@ -3,7 +3,7 @@
 ## My name is Mina
 
 - 🎓&nbsp;I am studying Front-end Development at Noroff School of technology and digital media.
-- 🤔 My interest mainly lies in front-end web development, but i always enjoy learning new things and i'm always up for a new challenge! 
+- 🤔 My interest mainly lies in front-end development, but i always enjoy learning new things and i'm always up for a new challenge! 
 
 ## A little more about me: 
 
